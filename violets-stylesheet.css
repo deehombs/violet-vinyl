@@ -1,0 +1,19 @@
+body {background-color:black;}
+h1#violets-header { color:white; font-family:Segoe UaI, Verdana, sans-serif; background-image: url("Records.jpg"); font-size: 100px; font-weight:bold; text-align: center;}
+h2.subheadings {color:white; font-family:'Segoe UI',Verdana, sans-serif; font-size: 25px; font-weight:bold; text-align: center;
+}
+#our-selection {background-color:#ef8354;}
+#selling {background-color:#0e7c7b;}
+#live-music {background-color:#9c538b;}
+h3.mini-headings {color:white; font-weight:bold; font-size: 18px;font-family: Verdana, sans-serif;}
+img.violets-images {width:500px;} 
+p.violets-text{font-family: Verdana, sans-serif; font-size: 16px; color:white;}
+span#sale {font-weight:bold;}
+footer#Copyright-VV {text-align:center;} 
+a:link {color:#ef8354; text-decoration: none; font-weight:bold;}
+a:hover {color:#9c528b}
+
+
+
+
+
